@@ -24,7 +24,14 @@ Author(s) Vijay K. Garg
 Publisher: Wiley-IEEE Press; 1st edition; eBook (Online Edition)
 Paperback: 336 pages
 eBook: PDF
-Language: English
+Language: EnglishBook Description
+
+                 An overview of practical parallel computing and principles will enable the reader to design
+                  efficient parallel programs for solving various computational problems on state-of-the-art
+                  personal computers and computing clusters.
 ISBN-10: 047143230X
 ISBN-13: 978-0471432302
 ===========================================
+
+About the Authors
+Blaise Barney is a research scientist at Lawrence Livermore National Laboratory.
