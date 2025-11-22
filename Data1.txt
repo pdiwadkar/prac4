@@ -9,4 +9,12 @@ eBook: PDF (128 pages, 1.93 MB)
 Language: English
 ISBN-10: N/A
 ISBN-13: N/A
-Share This:  
+Share This:
+Book Description
+
+This book approaches the real-time issues via established web-programming
+
+and concurrency techniques, which will reveal a few deficiencies of the standard Java platform.
+ A real-time package (class library) and a few run-time extensions will be presented.
+  The usage of these additions to create high performance real-time control software is then
+   described in a real-time programming chapter which is central the topic of this book.
