@@ -1,0 +1,2 @@
+This airline and airport code search engine provides an official source
+for codes assigned by IATA.
