@@ -18,3 +18,13 @@ and concurrency techniques, which will reveal a few deficiencies of the standard
  A real-time package (class library) and a few run-time extensions will be presented.
   The usage of these additions to create high performance real-time control software is then
    described in a real-time programming chapter which is central the topic of this book.
+================
+Title: Concurrent and Distributed Computing in Java
+Author(s) Vijay K. Garg
+Publisher: Wiley-IEEE Press; 1st edition; eBook (Online Edition)
+Paperback: 336 pages
+eBook: PDF
+Language: English
+ISBN-10: 047143230X
+ISBN-13: 978-0471432302
+===========================================
