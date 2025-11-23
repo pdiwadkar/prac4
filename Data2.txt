@@ -1,0 +1,9 @@
+Title: How to Scale Your Model: A Systems View of LLMs on TPUs
+Author(s) Jacob Austin, et al.
+Publisher: Self-Publishing;
+Hardcover: N/A
+eBook: HTML
+Language: English
+ISBN-10: N/A
+ISBN-13: N/A
+Share This:
