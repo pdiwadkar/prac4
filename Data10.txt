@@ -1,0 +1,3 @@
+FileIf conflicts arise during the rebase, Git will pause and allow you to resolve them. 
+
+Mark the conflicts as resolved once they have been fixed:
