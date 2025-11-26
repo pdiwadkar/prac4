@@ -1,1 +1,2 @@
 This is the change in file Data3 for amend.
+Some change in Data3.txt
